@@ -1,0 +1,29 @@
+{
+  "name": "react-native-analyzer",
+  "version": "1.0.0",
+  "description": "A tool to extract some insights about the status of a React Native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psegalen/react-native-analyzer.git"
+  },
+  "keywords": [
+    "quality",
+    "react-native",
+    "javascript",
+    "node"
+  ],
+  "author": "@psegalen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psegalen/react-native-analyzer/issues"
+  },
+  "homepage": "https://github.com/psegalen/react-native-analyzer#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
